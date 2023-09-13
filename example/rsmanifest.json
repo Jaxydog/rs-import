@@ -1,0 +1,8 @@
+{
+    "src/hello.rs": {
+        "hello": { }
+    },
+    "src/hello/Cargo.toml": {
+        "hello": { }
+    }
+}

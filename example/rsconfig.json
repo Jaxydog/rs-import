@@ -1,0 +1,11 @@
+{
+    "import": {
+        "manifest": "rsmanifest.json",
+        "always_recompile": false
+    },
+    "build": {
+        "output_dir": "bin",
+        "rustc_args": [ "-Copt-level=3" ],
+        "cargo_args": [ ]
+    }
+}
